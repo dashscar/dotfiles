@@ -1,0 +1,163 @@
+alternative rock band, formed in London, United Kingdom in 1997. The band comprises vocalist and pianist Chris Martin, lead guitarist Jonny Buckland, bassist Guy Berryman, and drummer Will Champion.  Having released four successful albums, (all of which debuted at #1 on the UK album chart) Coldplay have also achieved great success with their singles, such as Yellow, Speed of Sound, the Grammy-winning Clocks and the US and UK #1 single Viva la Vida.  Frontman Chris Martin credits 1980s Norwegian pop band a-ha for inspiring him to form his own band. 
+
+        Read more about Coldplay on Last.fm.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+
+Similar artists:
+
+ * Chris Martin (http://www.last.fm/music/Snow+Patrol)
+ * Jonny Buckland (http://www.last.fm/music/Keane)
+ * Guy Berryman (http://www.last.fm/music/Kings+of+Leon)
+ * Will Champion (http://www.last.fm/music/The+Fray)
+ * Snow Patrol (http://www.last.fm/music/The+Killers)
+ * Keane (http://www.last.fm/tag/rock)
+ * Kings of Leon (http://www.last.fm/tag/alternative)
+ * The Fray (http://www.last.fm/tag/britpop)
+ * The Killers (http://www.last.fm/tag/alternative%20rock)
+ * rock (http://www.last.fm/tag/indie)
+ * alternative (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Coldplay</name>
+          <mbid>cc197bad-dc9c-440d-a5b5-d52ba2e14234</mbid>
+            <bandmembers>
+                    <member>
+                <name>Chris Martin</name>
+                                    <yearfrom>1997</yearfrom>
+                                            </member>
+                    <member>
+                <name>Jonny Buckland</name>
+                                    <yearfrom>1997</yearfrom>
+                                            </member>
+                    <member>
+                <name>Guy Berryman</name>
+                                    <yearfrom>1997</yearfrom>
+                                            </member>
+                    <member>
+                <name>Will Champion</name>
+                                    <yearfrom>1997</yearfrom>
+                                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Coldplay</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/75646980.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/75646980.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/75646980.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/75646980.png</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/500/75646980/Coldplay+PNG.png</image>
+  <streamable>1</streamable>
+  <ontour>0</ontour>
+  <stats>
+    <listeners>4503507</listeners>
+    <playcount>270537839</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>Snow Patrol</name>
+	  <url>http://www.last.fm/music/Snow+Patrol</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/85340199.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/85340199.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/85340199.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/85340199.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/85340199/Snow+Patrol+PNG.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Keane</name>
+	  <url>http://www.last.fm/music/Keane</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/74942376.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/74942376.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/74942376.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/74942376.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/74942376/Keane++2012+PNG+3.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Kings of Leon</name>
+	  <url>http://www.last.fm/music/Kings+of+Leon</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/53765493.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/53765493.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/53765493.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/53765493.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/53765493/Kings+of+Leon+png.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>The Fray</name>
+	  <url>http://www.last.fm/music/The+Fray</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/71818366.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/71818366.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/71818366.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/71818366.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/71818366/The+Fray+PNG.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>The Killers</name>
+	  <url>http://www.last.fm/music/The+Killers</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/82786329.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/82786329.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/82786329.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/82786329.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/82786329/The+Killers+tumblr_1280.png</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+        <tag>
+	  <name>alternative</name>
+	  <url>http://www.last.fm/tag/alternative</url>
+	</tag>
+        <tag>
+	  <name>britpop</name>
+	  <url>http://www.last.fm/tag/britpop</url>
+	</tag>
+        <tag>
+	  <name>alternative rock</name>
+	  <url>http://www.last.fm/tag/alternative%20rock</url>
+	</tag>
+        <tag>
+	  <name>indie</name>
+	  <url>http://www.last.fm/tag/indie</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Coldplay/+wiki" />
+    </links>
+                                    <published>Sun, 1 Feb 2009 16:28:40 +0000</published>
+    <summary>
+        <![CDATA[        Coldplay is a British <a href="http://www.last.fm/tag/alternative%20rock" class="bbcode_tag" rel="tag">alternative rock</a> band, formed in London, United Kingdom in 1997. The band comprises vocalist and pianist <a href="http://www.last.fm/music/Chris+Martin" class="bbcode_artist">Chris Martin</a>, lead guitarist <a href="http://www.last.fm/music/Jonny+Buckland" class="bbcode_artist">Jonny Buckland</a>, bassist <a href="http://www.last.fm/music/Guy+Berryman" class="bbcode_artist">Guy Berryman</a>, and drummer <a href="http://www.last.fm/music/Will+Champion" class="bbcode_artist">Will Champion</a>.  Having released four successful albums, (all of which debuted at #1 on the UK album chart) Coldplay have also achieved great success with their singles, such as <a title="Coldplay &ndash; Yellow" href="http://www.last.fm/music/Coldplay/_/Yellow" class="bbcode_track">Yellow</a>, <a title="Coldplay &ndash; Speed of Sound" href="http://www.last.fm/music/Coldplay/_/Speed+of+Sound" class="bbcode_track">Speed of Sound</a>, the Grammy-winning <a title="Coldplay &ndash; Clocks" href="http://www.last.fm/music/Coldplay/_/Clocks" class="bbcode_track">Clocks</a> and the US and UK #1 single <a title="Coldplay &ndash; Viva la Vida" href="http://www.last.fm/music/Coldplay/_/Viva+la+Vida" class="bbcode_track">Viva la Vida</a>.  Frontman Chris Martin credits 1980s Norwegian pop band <a href="http://www.last.fm/music/a-ha" class="bbcode_artist">a-ha</a> for inspiring him to form his own band. 
+
+        <a href="http://www.last.fm/music/Coldplay">Read more about Coldplay on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        Coldplay is a British <a href="http://www.last.fm/tag/alternative%20rock" class="bbcode_tag" rel="tag">alternative rock</a> band, formed in London, United Kingdom in 1997. The band comprises vocalist and pianist <a href="http://www.last.fm/music/Chris+Martin" class="bbcode_artist">Chris Martin</a>, lead guitarist <a href="http://www.last.fm/music/Jonny+Buckland" class="bbcode_artist">Jonny Buckland</a>, bassist <a href="http://www.last.fm/music/Guy+Berryman" class="bbcode_artist">Guy Berryman</a>, and drummer <a href="http://www.last.fm/music/Will+Champion" class="bbcode_artist">Will Champion</a>.  Having released four successful albums, (all of which debuted at #1 on the UK album chart) Coldplay have also achieved great success with their singles, such as <a title="Coldplay &ndash; Yellow" href="http://www.last.fm/music/Coldplay/_/Yellow" class="bbcode_track">Yellow</a>, <a title="Coldplay &ndash; Speed of Sound" href="http://www.last.fm/music/Coldplay/_/Speed+of+Sound" class="bbcode_track">Speed of Sound</a>, the Grammy-winning <a title="Coldplay &ndash; Clocks" href="http://www.last.fm/music/Coldplay/_/Clocks" class="bbcode_track">Clocks</a> and the US and UK #1 single <a title="Coldplay &ndash; Viva la Vida" href="http://www.last.fm/music/Coldplay/_/Viva+la+Vida" class="bbcode_track">Viva la Vida</a>.  Frontman Chris Martin credits 1980s Norwegian pop band <a href="http://www.last.fm/music/a-ha" class="bbcode_artist">a-ha</a> for inspiring him to form his own band. 
+
+        <a href="http://www.last.fm/music/Coldplay">Read more about Coldplay on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>London, United Kingdom</placeformed>                        <yearformed>1997</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>1997</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * britpop (http://www.last.fm/music/Coldplay)
+ * alternative rock (http://www.last.fm/music/Snow+Patrol)
+ * indie (http://www.last.fm/music/Keane)
+
+http://www.last.fm/music/Coldplay
