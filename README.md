@@ -1,4 +1,4 @@
-Configs
+dotfiles
 =======
 
-Config files
+Config files for various things
